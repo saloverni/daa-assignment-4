@@ -20,5 +20,3 @@ KMP string search. Counters reset on each call. Search includes overlapping
 matches and rejects an empty pattern. Strings are compared as Java `char` values.
 
 The experiment design, measurements and conclusions are in [REPORT.md](REPORT.md).
-
-AI use: ChatGPT assisted with implementation, tests, experiment setup and report.
