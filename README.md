@@ -2,6 +2,8 @@
 
 Java 21+, Gradle Wrapper, JUnit 5. Python 3 with matplotlib is needed for plots.
 
+Repository: https://github.com/saloverni/daa-assignment-4
+
 ```bash
 ./gradlew build
 ./gradlew test
